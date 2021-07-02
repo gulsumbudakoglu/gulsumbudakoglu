@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gulsum
+- 👋 Hi, I’m Gülsüm
 - 👀 I’m interested in data science and related fields.
 - 🌱 I’m currently learning machine learning with Python.
 - 💞️ I’m looking to collaborate on data science projects.
