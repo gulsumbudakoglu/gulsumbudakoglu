@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gülsüm
 - 👀 I’m interested in data science and related fields.
-- 🌱 I’m currently learning machine learning with Python.
+- 🌱 I’m currently improving my Data Science skills.
 - 💞️ I’m looking to collaborate on data science projects.
 - 📫 You can reach me with my mail: gulsumbudakoglu@gmail.com
 
